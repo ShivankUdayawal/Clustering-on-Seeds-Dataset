@@ -32,3 +32,18 @@ To construct the data, seven geometric parameters of wheat kernels were measured
 * width of kernel,
 * asymmetry coefficient
 * length of kernel groove. All of these parameters were real-valued continuous
+
+## Data Visualization
+
+![](https://github.com/ShivankUdayawal/Clustering-on-Seeds-Dataset/blob/main/Data%20Visualization/heatmap.jpg)
+
+![](https://github.com/ShivankUdayawal/Clustering-on-Seeds-Dataset/blob/main/Data%20Visualization/hist%20plot.jpg)
+
+![](https://github.com/ShivankUdayawal/Clustering-on-Seeds-Dataset/blob/main/Data%20Visualization/area.jpg)
+
+![](https://github.com/ShivankUdayawal/Clustering-on-Seeds-Dataset/blob/main/Data%20Visualization/noofcluster.jpg)
+
+
+![](https://github.com/ShivankUdayawal/Clustering-on-Seeds-Dataset/blob/main/Data%20Visualization/silhouette.jpg)
+
+![](https://github.com/ShivankUdayawal/Clustering-on-Seeds-Dataset/blob/main/Data%20Visualization/Dendogram.jpg)
