@@ -1,10 +1,10 @@
 # Clustering-on-Seeds-Dataset
-## Grouping of good grains and which wheat is good to buy
+### Grouping of good grains and which wheat is good to buy
 
 
-### How can we group the good grains.. Which wheat is good to buy...
+#### How can we group the good grains.. Which wheat is good to buy...
 
-### Wheat can be classified in three ways: Colour (e.g., red, yellow, white)
+##### Wheat can be classified in three ways: Colour (e.g., red, yellow, white)
 
 * Planting season: spring wheat, planted in the spring and harvested in early fall; winter wheat, planted in the fall, harvested the following summer Characteristics of the grain: durum, hard bread wheat, and soft wheat In Canada, hard spring wheat suitable for yeast products is grown on the Prairies.
 
